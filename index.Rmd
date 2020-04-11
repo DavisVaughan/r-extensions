@@ -10,6 +10,6 @@ link-citations: yes
 description: "This is a book of examples for embedding different types of third party C++ libraries into R packages."
 ---
 
-# Welcome {#welcome}
+# Welcome {-#welcome}
 
 Some intro stuff here...
