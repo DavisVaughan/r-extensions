@@ -8,5 +8,9 @@ rmd_files:
   [
     "index.Rmd",
 
-    "introduction.Rmd"
+    "introduction.Rmd",
+
+    "header-only.Rmd",
+    "top-level.Rmd",
+    "standalone.Rmd"
   ]
